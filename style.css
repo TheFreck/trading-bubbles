@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#ticker-board {
+    background: transparent;
+    font-size: 50px;
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    top: 0;
+    opacity: .2;
+}
